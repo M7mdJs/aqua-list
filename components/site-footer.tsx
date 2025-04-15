@@ -256,7 +256,7 @@ export async function SiteFooter() {
               <Link href="/accessibility">Accessibility</Link>
             </Button>
             <p className="text-sm text-muted-foreground flex items-center">
-              Made with <Heart className="h-3 w-3 mx-1 text-red-500" /> by AquaTeam
+              Made with <Heart className="h-3 w-3 mx-1 text-red-500" /> by CodixVerse
             </p>
           </div>
         </div>

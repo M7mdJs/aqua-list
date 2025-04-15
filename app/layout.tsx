@@ -15,7 +15,7 @@ const inter = Inter({ subsets: ["latin"] })
 export const metadata: Metadata = {
   title: "Discord Bot List",
   description: "Discover and share Discord bots for your server",
-  generator: 'v0.dev'
+  generator: 'CodixVerse'
 }
 
 export default async function RootLayout({
