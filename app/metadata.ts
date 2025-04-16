@@ -23,7 +23,7 @@ export const metadata: Metadata = {
     description: 'Discover the perfect Discord bots for your server. Browse thousands of verified bots, read reviews, and find the best tools to enhance your Discord community.',
     siteName: 'AquaList',
     images: [{
-      url: '/opengraph-image.png',
+      url: 'https://aqua-cdn-nine.vercel.app/assets/opengraph-image.png',
       width: 1200,
       height: 630,
       alt: 'AquaList - Discord Bot Directory'
@@ -34,7 +34,7 @@ export const metadata: Metadata = {
     title: 'AquaList - The Ultimate Discord Bot Directory',
     description: 'Discover the perfect Discord bots for your server. Browse thousands of verified bots, read reviews, and find the best tools to enhance your Discord community.',
     creator: '@aqualist',
-    images: ['/opengraph-image.png']
+    images: ['https://aqua-cdn-nine.vercel.app/assets/opengraph-image.png']
   },
   robots: {
     index: true,

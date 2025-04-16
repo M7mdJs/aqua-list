@@ -22,7 +22,7 @@ async function getSiteStats() {
   } catch (error) {
     console.error("Error fetching site stats:", error)
     return {
-      botsCount: 500, // Fallback values
+      botsCount: 500,
       usersCount: 10000
     }
   }
@@ -42,7 +42,7 @@ export async function SiteFooter() {
             <Link href="/" className="flex items-center space-x-2 mb-4">
               <div className="relative w-8 h-8 rounded-lg overflow-hidden">
                 <Image 
-                  src="/logo2.png" 
+                  src="https://aqua-cdn-nine.vercel.app/assets/logo2.png" 
                   alt="AquaList Logo" 
                   fill 
                   className="object-cover"

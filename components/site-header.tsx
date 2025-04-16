@@ -86,7 +86,7 @@ export function SiteHeader() {
           <Link href="/" className="mr-8 flex items-center space-x-2 group">
             <div className="relative w-8 h-8 rounded-lg overflow-hidden transition-transform group-hover:scale-110">
               <Image 
-                src="/logo2.png" 
+                src="https://aqua-cdn-nine.vercel.app/assets/logo2.png" 
                 alt="AquaList Logo" 
                 fill 
                 className="object-cover"
@@ -133,7 +133,7 @@ export function SiteHeader() {
               <SheetTitle className="flex items-center">
                 <div className="relative w-8 h-8 rounded-lg overflow-hidden mr-2">
                   <Image 
-                    src="/logo2.png" 
+                    src="https://aqua-cdn-nine.vercel.app/assets/logo2.png" 
                     alt="AquaList Logo" 
                     fill 
                     className="object-cover"
@@ -262,7 +262,7 @@ export function SiteHeader() {
             <Link href="/" className="mr-6 flex items-center space-x-2 md:hidden">
               <div className="relative w-7 h-7 rounded-lg overflow-hidden">
                 <Image 
-                  src="/logo2.png" 
+                  src="https://aqua-cdn-nine.vercel.app/assets/logo2.png" 
                   alt="AquaList Logo" 
                   fill 
                   className="object-cover"
